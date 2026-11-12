@@ -1,2 +1,2 @@
-# websitte
+# website
 Fast Food website
